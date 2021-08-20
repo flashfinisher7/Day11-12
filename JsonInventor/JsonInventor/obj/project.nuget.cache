@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "0D0FB3BxB+3HlFnvjMbRVHM2c9ANQNXqnymDWni3OG7F50/uN/uVb/sAbJj6h4Aka7KmKE5+kJQk2a929qnZTQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\mvsan\\source\\repos\\JsonInventor\\JsonInventor\\JsonInventor.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\mvsan\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
